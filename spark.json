@@ -1,0 +1,7 @@
+{
+  "name": "Spark-WS",
+  "author": "Markus Sattler",
+  "license": "LGPL 2.1",
+  "version": "1.0",
+  "description": "WebSockets for Arduino (Server + Client)"
+}
