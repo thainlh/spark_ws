@@ -1,7 +1,7 @@
 #ifndef SPARK_WS_H_
 #define SPARK_WS_H_
 
-#include "WebSocketServer.h"
-#include "WebSocketClient.h"
+#include "WebSocketsServer.h"
+#include "WebSocketsClient.h"
 
 #endif
